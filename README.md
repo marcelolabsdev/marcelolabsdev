@@ -12,7 +12,7 @@
 
 <p align="left">📚 I'm currently learning English<br>🏆 Achievements:<br>1. Freelance programmer.
 <br>2. Documented code more efficiently to improve readability, maintenance, and collaboration.  <br>3. Develop efficient code that performs quickly.<br>🎉 Fun fact: Elmo doesn't know me, he'll never know where I live. <br>🎉 Fun fact: I don't ride a motorcycle. <br>🎉 Fun fact: My last name never changes. <br>PD: El que te enoja te domina.
- <br> PD2: Solo a la gente inteligente le caigo bien.</p>
+ <br> PD2: Le caigo bien a la gente inteligente.</p>
 
 ###
 
